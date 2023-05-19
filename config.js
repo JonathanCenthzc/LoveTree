@@ -13,7 +13,6 @@ var config = {
         "你的未来我想一以贯之",
         "情话都是学来的",
         "但爱你是真的",
-        "I love you forever,and wanna be with you forever",
     ],
     // 相爱的时间 记住格式不能写错了, 非常重要
     // 格式一定要和下面这个时间格式一样
